@@ -53,7 +53,9 @@ const PricingSection = () => {
 
             {/* CTA */}
             <a
-              href="#grab-deal"
+              href="https://superprofile.bio/vp/WorkflowsWorth"
+              target="_blank"
+              rel="noopener noreferrer"
               className="block gradient-cta text-primary-foreground font-bold text-lg py-4 rounded-xl glow-primary hover:scale-105 transition-transform mb-4"
             >
               GET INSTANT ACCESS - ₹299

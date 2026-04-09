@@ -74,7 +74,9 @@ const HeroSection = () => {
         <p className="text-primary font-bold text-lg mb-6">🔥 97% OFF - You Save ₹9,701!</p>
 
         <a
-          href="#grab-deal"
+          href="https://superprofile.bio/vp/WorkflowsWorth"
+          target="_blank"
+          rel="noopener noreferrer"
           className="inline-block gradient-cta text-primary-foreground font-bold text-lg md:text-xl px-10 py-4 rounded-xl glow-primary hover:scale-105 transition-transform"
         >
           GRAB THIS DEAL NOW - ₹299

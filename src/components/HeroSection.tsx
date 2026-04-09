@@ -14,16 +14,16 @@ const HeroSection = () => {
         </div>
 
         {/* Headline */}
-        <h1 className="text-4xl md:text-6xl lg:text-7xl font-black leading-tight mb-4 fade-in-up fade-in-up-delay-1">
+        <h1 className="text-4xl md:text-6xl lg:text-7xl font-black leading-tight mb-1 fade-in-up fade-in-up-delay-1">
           The Ultimate Bundle of
         </h1>
-        <p className="text-5xl md:text-7xl lg:text-8xl font-black text-price mb-2 fade-in-up fade-in-up-delay-2">
+        <p className="text-5xl md:text-7xl lg:text-8xl font-black text-price mb-0 leading-none fade-in-up fade-in-up-delay-2">
           27,700+
         </p>
-        <p className="text-3xl md:text-5xl lg:text-6xl font-black mb-6 fade-in-up fade-in-up-delay-2">
+        <p className="text-3xl md:text-5xl lg:text-6xl font-black mb-3 fade-in-up fade-in-up-delay-2">
           Money Making Courses
         </p>
-        <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10 fade-in-up fade-in-up-delay-3">
+        <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-6 fade-in-up fade-in-up-delay-3">
           Build <span className="text-primary font-semibold">Passive Income</span> &{" "}
           <span className="text-primary font-semibold">Financial Freedom</span> with the World's Largest Digital Library
         </p>
